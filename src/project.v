@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_uwaisc_onboarding_justin (
+module tt_um_uwaisc_onboarding_justin_haase (
 
   assign uio_oe = 8'hff;
 
